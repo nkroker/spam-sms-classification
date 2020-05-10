@@ -1,6 +1,6 @@
 # spamClassify
 
-> **spamClassify** is the spam sms classification program written in python   
+  - **spamClassify** is the spam sms classification program written in python   
   - It uses Machine Learning to classify the text sms into 2 classification categories
     - spam
     - ham
