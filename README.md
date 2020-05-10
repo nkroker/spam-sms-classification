@@ -2,6 +2,7 @@
 ### References
   - https://medium.com/@kopilov.vlad/detect-sms-spam-in-kaggle-with-scikit-learn-5f6afa7a3ca2
 
+### Intro
   - **spamClassify** is the spam sms classification program written in python   
   - It uses Machine Learning to classify the text sms into 2 classification categories
     - spam
